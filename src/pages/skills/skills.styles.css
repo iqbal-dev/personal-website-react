@@ -1,0 +1,76 @@
+.focus {
+  transition: transform 0.3s;
+}
+
+.focus:hover {
+  transform: scale(1.05);
+}
+
+.card-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.image-style {
+  width: 3em;
+}
+
+.font-details {
+  font-size: 3em;
+  font-weight: 500;
+  color: #231d5af8;
+}
+
+.font-details-b {
+  font-size: 3em;
+  font-weight: 500;
+  color: #ffffff;
+}
+.service_icon {
+  width: 90px;
+  height: 85px;
+  margin: 0px auto 25px;
+}
+
+
+
+.service_icon span {
+  background: transparent;
+  display: block;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.service_icon i {
+color: #FFFFFF;
+font-size: 40px;
+margin-top: 0;
+position: relative;
+top: 20px;
+z-index: 20;
+display: block;
+text-align: center;
+}
+.delay-03s {
+  animation-delay: 0.3s;
+  -webkit-animation-delay: 0.3s;
+}
+.service_block h3 { 
+  font-size: 16px;
+  }
+.service_block p {
+  font-size: 14px; 
+  margin: 0px;
+  margin-bottom: 20px;
+  }
+  
+img.img.img-circle.lt-box {
+  float: left;
+  width: 60px;
+  height: auto;
+  }
+
+  img {
+    max-width: 100%;
+}
